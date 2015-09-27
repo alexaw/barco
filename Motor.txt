@@ -1,0 +1,4 @@
+Class{
+	int cilindraje;
+	int fuerza;
+}
